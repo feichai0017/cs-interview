@@ -6,7 +6,7 @@ This repository tracks my consistent efforts to improve across:
 - ✅ **LeetCode practice** (problem solving & patterns)
 - ✅ **System design** (scalable architectures)
 - ✅ **Data structure implementations** (from scratch, in Go/Python/C++)
-- ✅ **Algorithm fundamentals & “八股文”** (must-know theory)
+- ✅ **Algorithm fundamentals & “fundamental knowledge”** (must-know theory)
 - ✅ **Mock interviews** (self practice & pair programming)
 
 ---
@@ -20,7 +20,7 @@ Each subfolder is named by **date (`YYYY-MM-DD`)**, and contains the content I s
 | Category              | Goal (Daily / Weekly)         | Progress |
 |-----------------------|-------------------------------|----------|
 | 📚 LeetCode           | 3 problems/day                | ✅ ongoing |
-| 🧱 Data Structures    | 1 impl/week                   | ✅ ongoing |
+| 🧱 Data Structures    | 1 impl/day                    | ✅ ongoing |
 | 🧠 System Design      | 1 topic every 2 days          | ✅ ongoing |
 | 📘 八股文刷题整理       | 1 topic/day (e.g. hash, lock) | ✅ ongoing |
 | 🤝 Mock Interview     | 3 sessions/week               | ✅ ongoing |
